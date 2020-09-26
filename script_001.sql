@@ -1,6 +1,6 @@
-# CREATE DATABASE mini_p_stock;
+CREATE DATABASE mini_p_stock;
 
-# USE mini_p_stock;
+USE mini_p_stock;
 
 CREATE TABLE `user`(
     id BIGINT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
